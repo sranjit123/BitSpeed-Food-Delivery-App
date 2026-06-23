@@ -2,9 +2,6 @@
 
 BiteSpeed is a premium, consumer-facing e-commerce application tailored for the food delivery industry. Designed to simulate high-growth platforms like DoorDash or UberEats, it emphasizes a fluid user experience, real-time catalog exploration, and a streamlined multi-step checkout workflow.
 
-## 🚀 Live Demo
-[Check out the Live Deployment here](https://bitespeed-mockup.vercel.app/) *(Mock Link)*
-
 ## ✨ Core Features
 
 - **Dynamic Menu Catalog**: A responsive grid featuring real-time text searching and multi-category filtering (Vegan, Gluten-Free, Italian, etc.).
@@ -36,20 +33,3 @@ src/
 └── styles/           # Design system & global tokens
 ```
 
-## 🛠️ Getting Started
-
-1. **Clone the repo**:
-   ```bash
-   git clone https://github.com/yourusername/bitespeed-mockup.git
-   ```
-2. **Install dependencies**:
-   ```bash
-   npm install
-   ```
-3. **Run development server**:
-   ```bash
-   npm run dev
-   ```
-
----
-*Created with ❤️ for technical recruitment portfolios.*
